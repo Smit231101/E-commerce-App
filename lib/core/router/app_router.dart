@@ -1,5 +1,5 @@
-import 'package:e_commerce_app/layers/presentation/home_screen/home_screen.dart';
-import 'package:e_commerce_app/layers/presentation/splash_screen/splash_screen.dart';
+import 'package:e_commerce_app/layers/presentation/home/home_screen.dart';
+import 'package:e_commerce_app/layers/presentation/splash/splash_screen.dart';
 import 'package:go_router/go_router.dart';
 
 class AppRouter {
